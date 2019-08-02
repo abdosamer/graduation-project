@@ -95,7 +95,7 @@ The following Sub-Branches/Desciplines are to be tackled for achieving this proj
   
 ### CarePro Android App
 
-
+![alt text](https://www.cooking-hacks.com/media/cooking/images/documentation/mysignals_software/mysignals_box_smartphone_small.jpg)
 
 ##### it  will be designed by the MVVM (model view - view model) Design pattern that it will recieve the data from the CarePro Embbedded Device via Bluetooth to show the data of the sensors while measuring in real time and connect to the website in the same time to get patient previous data 
 
