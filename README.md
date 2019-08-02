@@ -1,5 +1,5 @@
-PHIEC Telemedicine System
-(PECTMS)
+#                                                         PHIEC Telemedicine System
+#                                                                 (PECTMS)
 
 # Abstract:
 Hospital information systems are covering clinical, administrative and managerial applications. Today care providers and administrators can access libraries of information resources and longitudinal patient records (with the corresponding permissions). Computer networks in the hospital reduce costs and improve the quality of care. These systems will be built of modular components that are integrated across multiple settings in which patient receive necessary care. Thus, it is the time to encourage physicians for utilizing state of the art information technology to conduct and manage all the aspects of the medical process. The PECTMS can be installed in hospitals as well as regional centers and private offices, with applications in almost every medical field. PECTMS is an application generator for medical information systems, where its basic concept is a clear, comprehensive, easily accessible and readily retrievable patient record.
