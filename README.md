@@ -1,10 +1,10 @@
 #                                                         PHIEC Telemedicine System
 #                                                                 (PECTMS)
 
-# Abstract:
+## Abstract:
 Hospital information systems are covering clinical, administrative and managerial applications. Today care providers and administrators can access libraries of information resources and longitudinal patient records (with the corresponding permissions). Computer networks in the hospital reduce costs and improve the quality of care. These systems will be built of modular components that are integrated across multiple settings in which patient receive necessary care. Thus, it is the time to encourage physicians for utilizing state of the art information technology to conduct and manage all the aspects of the medical process. The PECTMS can be installed in hospitals as well as regional centers and private offices, with applications in almost every medical field. PECTMS is an application generator for medical information systems, where its basic concept is a clear, comprehensive, easily accessible and readily retrievable patient record.
 
-# Introduction:
+## Introduction:
 The majority of medical information systems in use today have not been able to penetrate the medical production floor, where the actual medical process takes place and where the bulk of medical information is created. Namely, the patient-physician session, which is the basic unit of the medical process, does not involve online, systematic use of computerized information systems. Computerizing the production floor is not an end in itself. Rather, its importance lies in being part of the organization's ability to implement online and long range planning and control tools.
 
 Based on the concept of a comprehensive patient record and using advanced human interface techniques, the electronics and communications department has managed to make that breakthrough. The objective is to create a standard tool to conduct, manage and control the entire medical situation, online during the patient-physician session.
@@ -39,35 +39,36 @@ Ideally, health care is a communication-intensive process and information that r
 Greater attention has been given recently to information technology and telecommunication reforms and their use for the improvement of health care service delivery. Telemedicine is the use of advanced telecommunication technologies for the purposes of making diagnoses, conducting research, transferring patient data, improving disease management and treatment in remote areas. This project is devoted to the design and implementation of telemedicine system and provides a brief overview of telemedicine, its potential clinical applications, and the various benefits and leading issues surrounding it.
 
 The design process includes the following points: 
+```
 1-	Realize a medical monitoring system for patient vital signs.
 2-	Establish connection between database and all system modules.
 3-	Design a website to serve as a link between doctor, hospital, ambulance car, medical robot and patient.
 4-	Use GPS module in conjunction with INS to track Patient's location for fast medical response in emergency situation.
 5-	Design an autonomous robot car to carry proper medications for patient case.
-
-# Advantages and Characteristics:
+```
+### Advantages and Characteristics:
 The system features have an immediate effect on the quality of medical care and establish a readily accessible database for further research and analysis;
-●	Utilizes advanced data entry techniques,
-●	Gives physicians immediate access to clear, detailed patient records including high quality presentation of graphic information from video and other sources
-●	Provides online access to relevant background information (e.g. sensitivities) enables immediate retrieval of cross referenced information for preventive medicine,
-●	It can give immediate feedback on suggested procedures and so on.
-●	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields.
+>●	Utilizes advanced data entry techniques,
+>●	Gives physicians immediate access to clear, detailed patient records including high quality presentation of graphic information from video and other sources
+>●	Provides online access to relevant background information (e.g. sensitivities) enables immediate retrieval of cross referenced information for preventive medicine,
+>●	It can give immediate feedback on suggested procedures and so on.
+>●	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields.
 
 The system is characterized by;
-●	Text oriented in design, which makes it highly suitable for handling medical information and for supporting the decision-making processes of the medical profession.
-●	Variability: Applications for any medical field can be designed with great variability in record design, to suit the needs and requirements of the institution or the medical field and the personal preferences of the end users.
-●	Flexibility: Changes can be made any time to adapt the system to new medical, regulatory or organizational circumstances, without disrupting existing data.
-●	Connectivity and Communication: Connectivity to other systems is an integral part of PECTMS (Server and others), through embedded import/export mechanisms, which is being customized for every organization. This makes it possible for each level of the organization to obtain online those fractions of the database relevant to performing its tasks.
-●	Design Techniques: Interchangeable top-down and other design techniques are available, enabling to design different parts of the system concurrently or at different stages, then incorporate the different elements into one coherent system.
+>●	Text oriented in design, which makes it highly suitable for handling medical information and for supporting the decision-making processes of the medical profession.
+>●	Variability: Applications for any medical field can be designed with great variability in record design, to suit the needs and requirements of the institution or the medical field and the personal preferences of the end users.
+>●	Flexibility: Changes can be made any time to adapt the system to new medical, regulatory or organizational circumstances, without disrupting existing data.
+>●	Connectivity and Communication: Connectivity to other systems is an integral part of PECTMS (Server and others), through embedded import/export mechanisms, which is being customized for every organization. This makes it possible for each level of the organization to obtain online those fractions of the database relevant to performing its tasks.
+>●	Design Techniques: Interchangeable top-down and other design techniques are available, enabling to design different parts of the system concurrently or at different stages, then incorporate the different elements into one coherent system.
 
-# Sub-Branches/Desciplines:
+### Sub-Branches/Desciplines:
 The following Sub-Branches/Desciplines are to be tackled for achieving this project;
-●	Wireless communications; radio transcievers.
-●	Embeded Systems: guided vehicle, navigation, localization, GPS, INS
-●	Biomedical sensors; types, conditioning networks (software and hardware)
-●	WSN: wireless sensor networks structure and implementation.
-●	IOT: internet of things structure and implementation.
-●	DataBase architecture design and implementation.
-●	Medicine: telemedicine, information technology (symptoms, diagnosis, treatment)
-●	Pharmacy: telepharmacy
-●	Website design and network implementation
+>●	Wireless communications; radio transcievers.
+>●	Embeded Systems: guided vehicle, navigation, localization, GPS, INS
+>●	Biomedical sensors; types, conditioning networks (software and hardware)
+>●	WSN: wireless sensor networks structure and implementation.
+>●	IOT: internet of things structure and implementation.
+>●	DataBase architecture design and implementation.
+>●	Medicine: telemedicine, information technology (symptoms, diagnosis, treatment)
+>●	Pharmacy: telepharmacy
+>●	Website design and network implementation
