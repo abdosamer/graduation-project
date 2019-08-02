@@ -1,5 +1,5 @@
-#                                                         PHIEC Telemedicine System
-#                                                                 (PECTMS)
+#                                                         CarePro Telemedicine System
+#                                                                 (CPTMS)
 
 ## Abstract:
 Hospital information systems are covering clinical, administrative and managerial applications. Today care providers and administrators can access libraries of information resources and longitudinal patient records (with the corresponding permissions). Computer networks in the hospital reduce costs and improve the quality of care. These systems will be built of modular components that are integrated across multiple settings in which patient receive necessary care. Thus, it is the time to encourage physicians for utilizing state of the art information technology to conduct and manage all the aspects of the medical process. The PECTMS can be installed in hospitals as well as regional centers and private offices, with applications in almost every medical field. PECTMS is an application generator for medical information systems, where its basic concept is a clear, comprehensive, easily accessible and readily retrievable patient record.
@@ -42,9 +42,11 @@ The design process includes the following points:
 ```
 1-	Realize a medical monitoring system for patient vital signs.
 2-	Establish connection between database and all system modules.
-3-	Design a website to serve as a link between doctor, hospital, ambulance car, medical robot and patient.
-4-	Use GPS module in conjunction with INS to track Patient's location for fast medical response in emergency situation.
-5-	Design an autonomous robot car to carry proper medications for patient case.
+3-	Design a website to serve as a link between doctor, hospital, CarePro device [5], CarePro Android App[6], and patient.
+4-	Use a GPS module in conjunction with INS to track Patient's location for fast medical response in an emergency situation.
+5-	Design (CarePro) an eHealth care device  for measuring the difference in biometric parameters by various medical sensors that are attached to it 
+6- Design (CarePro Android App) an android app that can  be attached to the CarePro device via Bluetooth to show the measured data by the device in graphs or written data and see the patient profile by connecting to the website 
+
 ```
 ### Advantages and Characteristics:
 The system features have an immediate effect on the quality of medical care and establish a readily accessible database for further research and analysis;
@@ -52,7 +54,8 @@ The system features have an immediate effect on the quality of medical care and 
 -	Gives physicians immediate access to clear, detailed patient records including high quality presentation of graphic information from video and other sources
 -	Provides online access to relevant background information (e.g. sensitivities) enables immediate retrieval of cross referenced information for preventive medicine,
 -	It can give immediate feedback on suggested procedures and so on.
--	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields.
+-	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields that most of the data will be encrypted and only the supervisor Doctor and the patient only who can access it
+-	keeping patient up to data about his health status via the android app 
 
 #### The system is characterized by;
 -	Text oriented in design, which makes it highly suitable for handling medical information and for supporting the decision-making processes of the medical profession.
@@ -63,12 +66,18 @@ The system features have an immediate effect on the quality of medical care and 
 
 ### Sub-Branches/Desciplines:
 The following Sub-Branches/Desciplines are to be tackled for achieving this project;
--	Wireless communications; radio transcievers.
--	Embeded Systems: guided vehicle, navigation, localization, GPS, INS
+-	Wireless communications; radio transceivers.
+-	Embedded Systems: Sensors Master System, navigation, localization, GPS, INS
 -	Biomedical sensors; types, conditioning networks (software and hardware)
 -	WSN: wireless sensor networks structure and implementation.
--	IOT: internet of things structure and implementation.
+-	IoT: Internet of things structure and implementation.
 -	DataBase architecture design and implementation.
 -	Medicine: telemedicine, information technology (symptoms, diagnosis, treatment)
--	Pharmacy: telepharmacy
--	Website design and network implementation
+-	Pharmacy: Tele-pharmacy
+-	Website design, android app design, and network implementation
+
+## Devices archeticture and Design
+
+### CarePro Embedded Device
+
+
