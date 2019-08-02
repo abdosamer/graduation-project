@@ -80,7 +80,7 @@ The following Sub-Branches/Desciplines are to be tackled for achieving this proj
 
 ### CarePro Embedded Device
 
-
+![alt text](http://www.my-signals.com/wp-content/themes/mysignals/images/mysignals-with-sensors-connected.jpg)
 
 ##### it will be Desing in the apstraction layers Design pattern that will help it setup be easy with the web app and mobile app to send the data for them via wifi and bluetooth module that the archetecture will be :
 
