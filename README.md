@@ -76,8 +76,28 @@ The following Sub-Branches/Desciplines are to be tackled for achieving this proj
 -	Pharmacy: Tele-pharmacy
 -	Website design, android app design, and network implementation
 
-## Devices archeticture and Design
+## Devices,apps archeticture and Design
 
 ### CarePro Embedded Device
 
+
+
+##### it will be Desing in the apstraction layers Design pattern that will help it setup be easy with the web app and mobile app to send the data for them via wifi and bluetooth module that the archetecture will be :
+
+
+- App Layer
+- SoftWare Apstraction layer SAL 
+- hardware abstraction layer HAL
+  - Sensors Drivers
+  - WIFI Module Driver
+  - Bluetooth Module Driver
+  
+  
+### CarePro Android App
+
+
+
+##### it  will be designed by the MVVM (model view - view model) Design pattern that it will recieve the data from the CarePro Embbedded Device via Bluetooth to show the data of the sensors while measuring in real time and connect to the website in the same time to get patient previous data 
+
+  
 
