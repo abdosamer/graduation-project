@@ -48,27 +48,27 @@ The design process includes the following points:
 ```
 ### Advantages and Characteristics:
 The system features have an immediate effect on the quality of medical care and establish a readily accessible database for further research and analysis;
->●	Utilizes advanced data entry techniques,
->●	Gives physicians immediate access to clear, detailed patient records including high quality presentation of graphic information from video and other sources
->●	Provides online access to relevant background information (e.g. sensitivities) enables immediate retrieval of cross referenced information for preventive medicine,
->●	It can give immediate feedback on suggested procedures and so on.
->●	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields.
+-	Utilizes advanced data entry techniques,
+-	Gives physicians immediate access to clear, detailed patient records including high quality presentation of graphic information from video and other sources
+-	Provides online access to relevant background information (e.g. sensitivities) enables immediate retrieval of cross referenced information for preventive medicine,
+-	It can give immediate feedback on suggested procedures and so on.
+-	Legal and ethical aspects have been given special attention and data access restrictions can be enforced at all system levels, starting from individual fields.
 
-The system is characterized by;
->●	Text oriented in design, which makes it highly suitable for handling medical information and for supporting the decision-making processes of the medical profession.
->●	Variability: Applications for any medical field can be designed with great variability in record design, to suit the needs and requirements of the institution or the medical field and the personal preferences of the end users.
->●	Flexibility: Changes can be made any time to adapt the system to new medical, regulatory or organizational circumstances, without disrupting existing data.
->●	Connectivity and Communication: Connectivity to other systems is an integral part of PECTMS (Server and others), through embedded import/export mechanisms, which is being customized for every organization. This makes it possible for each level of the organization to obtain online those fractions of the database relevant to performing its tasks.
->●	Design Techniques: Interchangeable top-down and other design techniques are available, enabling to design different parts of the system concurrently or at different stages, then incorporate the different elements into one coherent system.
+#### The system is characterized by;
+-	Text oriented in design, which makes it highly suitable for handling medical information and for supporting the decision-making processes of the medical profession.
+-	Variability: Applications for any medical field can be designed with great variability in record design, to suit the needs and requirements of the institution or the medical field and the personal preferences of the end users.
+-	Flexibility: Changes can be made any time to adapt the system to new medical, regulatory or organizational circumstances, without disrupting existing data.
+-	Connectivity and Communication: Connectivity to other systems is an integral part of PECTMS (Server and others), through embedded import/export mechanisms, which is being customized for every organization. This makes it possible for each level of the organization to obtain online those fractions of the database relevant to performing its tasks.
+-	Design Techniques: Interchangeable top-down and other design techniques are available, enabling to design different parts of the system concurrently or at different stages, then incorporate the different elements into one coherent system.
 
 ### Sub-Branches/Desciplines:
 The following Sub-Branches/Desciplines are to be tackled for achieving this project;
->●	Wireless communications; radio transcievers.
->●	Embeded Systems: guided vehicle, navigation, localization, GPS, INS
->●	Biomedical sensors; types, conditioning networks (software and hardware)
->●	WSN: wireless sensor networks structure and implementation.
->●	IOT: internet of things structure and implementation.
->●	DataBase architecture design and implementation.
->●	Medicine: telemedicine, information technology (symptoms, diagnosis, treatment)
->●	Pharmacy: telepharmacy
->●	Website design and network implementation
+-	Wireless communications; radio transcievers.
+-	Embeded Systems: guided vehicle, navigation, localization, GPS, INS
+-	Biomedical sensors; types, conditioning networks (software and hardware)
+-	WSN: wireless sensor networks structure and implementation.
+-	IOT: internet of things structure and implementation.
+-	DataBase architecture design and implementation.
+-	Medicine: telemedicine, information technology (symptoms, diagnosis, treatment)
+-	Pharmacy: telepharmacy
+-	Website design and network implementation
